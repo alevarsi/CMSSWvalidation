@@ -1,4 +1,6 @@
-# ignore .root files
+# ignore .root and .png files
 *.root
+*.png
+*.pdf
 
 __pycache__
